@@ -1,0 +1,81 @@
+.table1 { 
+    Width: 100%
+}
+.headerrow {
+    background-color: rgb(33, 194, 33);
+    text-align: center;
+}
+.header1{
+    text-align: center;
+    font-weight: bold;
+    font-weight: italic;
+    font-size: 80px;
+    text-decoration: italic;
+}
+
+.class1
+    {
+      font-weight: bold;
+      font-weight: italic;
+      color: green;
+      font-size: 100px;
+      text-decoration: underline;
+      text-decoration: italic;
+      text-align: center;
+  
+    }
+    .class2
+    {
+      font-weight: bold;
+      color: black;
+      font-size: 30px;
+      text-align: center;
+  
+    }
+    .class3
+    {
+      font-weight: italic;
+      color: purple;
+      font-size: 25px;
+      text-decoration: underline;
+      text-decoration: italic;
+  text-align: center;
+  
+    }
+  
+    .class4
+    {
+      font-weight: italic;
+      color: purple;
+      font-size: 10px;
+      text-decoration: italic;
+  text-align: center;
+  
+    }
+    .table1
+    {
+      width: 100%;
+    }
+    .headerrow
+    {
+      background-color: green
+  
+    }
+
+    .class2
+    {
+     
+     font-weight: bold;
+     color:green;
+     font-size:50px;
+     text-decoration:underline;
+     text-align:center
+     
+    }
+    .table1{
+      width: 100%
+    }
+    .headrow{
+      background-color: green;
+    }
+ 
